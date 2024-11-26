@@ -10,20 +10,6 @@
 - 🔥 **Campfire Lighting**: The campfire illuminates your surroundings but doesn’t stop the zombies.
 - 👀 **First-Person Perspective**: Fully immersive gameplay where every move counts.
 
-## Installation
-
-1. **Clone the repository**:
-
-   ```bash
-   git clone https://github.com/your-username/zombie-shooter.git
-   ```
-
-2. **Open the project in Unity**:
-   - Use **Unity 2021.3** or later for compatibility.
-
-3. **Play the game**:
-   - Press the `Play` button in the Unity Editor or build the project for your target platform.
-
 ## How to Play
 
 1. Use **ZQSD** to move around.
