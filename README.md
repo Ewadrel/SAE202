@@ -19,8 +19,6 @@
 
 ## Game Preview
 
-![Game Preview](zombie-shooter.png)
-
 The game includes:
 - A realistic dark, stormy setting with a glowing campfire for visibility.
 - Zombies that approach from all directions, increasing the tension.
